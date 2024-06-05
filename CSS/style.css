@@ -1,0 +1,43 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 20px;
+}
+h1 {
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+.primary-heading {
+  color: #333;
+  
+}
+.secondary-heading {
+  color: #333;
+  margin-top: 2em;
+}
+p {
+  line-height: 1.5;
+}
+ul {
+  list-style: disc;
+  margin: 0;
+  padding: 0;
+}
+li {
+  margin-bottom:10px ;
+}
+#Bergen {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+}
+p {
+  text-align: left;
+  font-style: italic;
+}
+#contact-heading {
+  color: blue;
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
